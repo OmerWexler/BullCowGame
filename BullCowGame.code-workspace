@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\Epic\\UE_4.22"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"string": "cpp",
+			"*.ipp": "cpp",
+			"xstring": "cpp",
+			"iosfwd": "cpp",
+			"bitset": "cpp",
+			"string_view": "cpp"
+		},
+		"problems.showCurrentInStatus": true
+	}
+}
